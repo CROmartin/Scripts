@@ -6,10 +6,14 @@
 
 2.  **Every time apply changes to run-script or if you are first time downloading**
 
-    Run Next command in terminal, first argument should be changed to match yours SCRIPT_DIR
+    ```shell
+    # Run Next command in terminal, first argument should be changed to match yours SCRIPT_DIR
     sudo cp /Users/martinstaresincic/Documents/Scripts/run-script /usr/local/bin/
+    ```
 
 3.  **Example of runnig script**
 
-    Run in command:
+    ```shell
+    # Run in command:
     run-script hello-world
+    ```
